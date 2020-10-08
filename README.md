@@ -14,7 +14,7 @@ Copy and paste the following into Terminal.app:
     git clone https://github.com/carterliebman/quit-global-protect ~/Applications/quit-global-protect;
     cd ~/Applications/quit-global-protect;
     chmod +x quit-global-protect.command;
-    chmod +x start-global-protect.command;
+    chmod +x launch-global-protect.command;
 
     
 You can now run either command by double-clicking.
