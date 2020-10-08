@@ -11,7 +11,7 @@ Two simple scripts that allow you to quit the PaloAlto GlobalConnect client on M
 
 Copy and paste the following into Terminal.app:
 
-    git clone https://github.com/carterliebman/quit-global-protect ~/Applications/quit-globalconnect;
+    git clone https://github.com/carterliebman/quit-global-protect ~/Applications/quit-global-protect;
     cd ~/Applications/quit-global-protect;
     chmod +x quit-global-protect.command;
     chmod +x start-global-protect.command;
